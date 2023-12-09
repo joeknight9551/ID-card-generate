@@ -1,0 +1,2 @@
+python Generate.py "Mam John Jock" "M" "01/01/1993" "Ministry of Information Telcommunication &" "Postal Services" "Technical" "Head of Technical" "C" "S13133713579" "20-11-2023" "20-11-2024" "This ID Card remains to be a property of the Ministry of" "Finance, If found lost, please return it to the" "ministry on the address indicated" "" "P.O.Box 80 South Sudan" "www.mofp.ss" "sign.png" "front-final.png" "back-id.png"
+3:09 A

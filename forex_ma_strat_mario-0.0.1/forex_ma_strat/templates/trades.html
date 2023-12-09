@@ -1,0 +1,29 @@
+{% block content %}
+<div id="main-content">
+    {% if trades %}
+    <form action="{% url 'trigger' %}" method="get">
+        <table>
+            <!-- <tr>
+                <th>Symbol name</th>
+                <th>Trade type</th>
+                <th></th>
+            </tr> -->
+            {% for t in trades %}
+            <tr>
+                <td>{{t.symbol_name}}</td>
+                <td>{{t.type}}</td>
+                <td>
+                    <input type="submit" name="ticker"  value="{{ t.symbol_name }}" />
+                </td>
+            </tr>
+            {% endfor %}
+        </table>
+    </form>
+    {% else %}
+    <p>No trades found</p>
+    {% endif %}
+</div>
+{% endblock content %}
+<!-- <ul>
+    <li><h4>{{ symbol }}</h4></li>
+</ul> -->

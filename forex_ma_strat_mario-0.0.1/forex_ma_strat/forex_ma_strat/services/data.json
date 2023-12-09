@@ -1,0 +1,18 @@
+[
+    {
+        "ticker": "NZDJPY",
+        "type": "Short",
+        "order1_price": 90.722,
+        "order1_half_tp": 90.5266912742501,
+        "order1_position": 84339144,
+        "order1_qty": 0.3,
+        "order2_price": 91.113,
+        "order2_position": 84339145,
+        "order2_qty": 0.75,
+        "stage_2_breakeven": 90.917,
+        "sl": 91.699,
+        "current_stage": 1,
+        "avg_hl": 0.9765436287494711,
+        "datetime_str": "04122023"
+    }
+]

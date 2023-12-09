@@ -1,0 +1,38 @@
+{
+    "MT5": {
+        "login_id": 61200673,
+        "password": "gilk^rqQj1",
+        "server": "Pepperstone Demo",
+        "bot_id": 123456
+    },
+    "symbols": [
+        "AUDCAD",
+        "AUDCHF",
+        "AUDJPY",
+        "AUDNZD",
+        "AUDUSD",
+        "CADCHF",
+        "CADJPY",
+        "CHFJPY",
+        "EURAUD",
+        "EURCAD",
+        "EURCHF",
+        "EURGBP",
+        "EURJPY",
+        "EURNZD",
+        "EURUSD",
+        "GBPAUD",
+        "GBPCAD",
+        "GBPCHF",
+        "GBPJPY",
+        "GBPNZD",
+        "GBPUSD",
+        "NZDCHF",
+        "NZDCAD",
+        "NZDJPY",
+        "NZDUSD",
+        "USDCAD",
+        "USDCHF",
+        "USDJPY"
+    ]
+}
